@@ -1,0 +1,32 @@
+footer {
+  .container {
+    @include container;
+    margin-top: 20px;
+    text-align: center;
+    .contact {
+      display: flex;
+      justify-content: center;
+      padding: 20px 0;
+      a,
+      p {
+        color: white;
+        padding: 0 10px;
+      }
+    }
+  }
+}
+
+@media (max-width: 767px) {
+  footer {
+    .container {
+        .contact {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            a, p {
+                padding-bottom: 10px;
+            }
+        }
+    }
+  }
+}

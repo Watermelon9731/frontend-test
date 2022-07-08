@@ -1,0 +1,38 @@
+[
+    {
+        "name": "AA-1",
+        "code": "a1",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque esse maiores incidunt quia quidem reiciendis repellat, maxime accusantium in nostrum, itaque tenetur ipsa eos exercitationem, repudiandae totam ratione voluptate temporibus!",
+        "url": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"
+    },
+    {
+        "name": "AA-2",
+        "code": "a2",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque esse maiores incidunt quia quidem reiciendis repellat, maxime accusantium in nostrum, itaque tenetur ipsa eos exercitationem, repudiandae totam ratione voluptate temporibus!",
+        "url": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"
+    },
+    {
+        "name": "AA-3",
+        "code": "a3",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque esse maiores incidunt quia quidem reiciendis repellat, maxime accusantium in nostrum, itaque tenetur ipsa eos exercitationem, repudiandae totam ratione voluptate temporibus!",
+        "url": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"
+    },
+    {
+        "name": "AA-4",
+        "code": "a4",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque esse maiores incidunt quia quidem reiciendis repellat, maxime accusantium in nostrum, itaque tenetur ipsa eos exercitationem, repudiandae totam ratione voluptate temporibus!",
+        "url": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"
+    },
+    {
+        "name": "AA-5",
+        "code": "a5",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque esse maiores incidunt quia quidem reiciendis repellat, maxime accusantium in nostrum, itaque tenetur ipsa eos exercitationem, repudiandae totam ratione voluptate temporibus!",
+        "url": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"
+    },
+    {
+        "name": "AA-6",
+        "code": "a6",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque esse maiores incidunt quia quidem reiciendis repellat, maxime accusantium in nostrum, itaque tenetur ipsa eos exercitationem, repudiandae totam ratione voluptate temporibus!",
+        "url": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"
+    }
+]

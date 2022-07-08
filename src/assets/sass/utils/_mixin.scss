@@ -1,0 +1,8 @@
+@mixin theme-background {
+    background-color: $primary-color;
+}
+
+@mixin container {
+    width: 80%;
+    margin: 0 auto;
+}

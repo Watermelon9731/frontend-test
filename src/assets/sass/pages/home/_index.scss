@@ -1,0 +1,31 @@
+#homePage {
+  text-align: center;
+  .switch-btn {
+    padding: 10px 10px;
+    margin-bottom: 20px;
+    background-color: transparent;
+    color: $secondary-color;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 2px;
+    border: 1px solid $secondary-color;
+    border-radius: 5px;
+    cursor: pointer;
+    position: relative;
+    // &::after {
+    //     content: '';
+    //     position: absolute;
+    //     bottom: -2px;
+    //     left: 50%;
+    //     transform: translateX(-50%);
+    //     width: 80%;
+    //     height: 1px;
+    //     background-color: $secondary-color;
+    // }
+    &:hover {
+        background-color: $secondary-color;
+        color: white;
+        transition: 0.3s;
+    }
+  }
+}
